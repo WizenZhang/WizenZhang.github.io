@@ -191,7 +191,7 @@ progress::-moz-progress-value {
     margin: 0 auto;
     margin-top:20px;
     margin-bottom: 10px;
-    background-image:url('https://raw.githubusercontent.com/WizenZhang/WizenZhang.github.io/master/images/avatar.jpg');
+    background-image:url(../images/avatar.jpg);
     background-size: 120%;
     background-position:center;
     border-radius:50%;
