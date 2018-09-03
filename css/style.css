@@ -34,6 +34,13 @@ span {
     vertical-align: top;
 }
 
+.star-value{
+    width: 200px;
+    vertical-align: top;
+	color: #373787;
+	padding-left: 40px;
+}
+
 .iconfont {
     font-family:"iconfont" !important;
     font-size:1.1em;font-style:normal;
@@ -52,7 +59,7 @@ span {
 
 h1, h2, h3, h4, h5 {
     font-weight: 500;
-    color: #607d8b;
+    color: #373787;
     line-height: 1.5;
 }
 
@@ -109,13 +116,13 @@ hr {
 
 .remodal-img button {
     float: right;
-    background: #607d8b;
+    background: #373787;
 
 }
 
 .remodal-img button:hover{
     float: right;
-    background: #607d8b;
+    background: #373787;
 
 }
 
@@ -134,7 +141,7 @@ p {
 }
 
 progress {
-    background-color: #f6f6f6;
+    background-color: #909090;
     display: inline;
     /*width: 195px;*/
     height: 1em;
@@ -142,20 +149,20 @@ progress {
 }
 
 progress::-webkit-progress-bar {
-    background-color: #e0eaf0;
+    background-color: #373787;
 }
 
 progress::-webkit-progress-value {
-    background-color: #708d9b;
+    background-color: #909090;
 }
 
 progress::-moz-progress-bar {
-    background-color: #e0eaf0;
+    background-color: #373787;
 
 }
 
 progress::-moz-progress-value {
-    background-color: #708d9b;
+    background-color: #909090;
 }
 
 .progress-list {
@@ -195,7 +202,7 @@ progress::-moz-progress-value {
     background-size: 120%;
     background-position:center;
     border-radius:50%;
-    border:5px solid #607d8b;
+    border:5px solid #373787;
     width:160px;
     height:160px;
 }
